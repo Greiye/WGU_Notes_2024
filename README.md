@@ -1,16 +1,15 @@
 # Mike's WGU Notes
-I should write this in HTMl/CSS format. 
+<details>I should write this in HTMl/CSS format. 
 
-_Screw it._ This document is gonna be informal, since this is my personal notes after all.
-
+_Screw it._ This document is gonna be informal, since this is my personal notes after all.</details>
 ## WGU Notebook Journal
-### Planned Term 1
+<details>### Planned Term 1
 
-### Things I should do:
-Use Quizlet’s Magic Notes AI feature.
+#### Things I should do:
+Use Quizlet’s Magic Notes AI feature. </details>
 
-# American Politics and the US Constitution – C963
-American Politics and the US Constitution - C963 WGU Flashcards | Quizlet
+### American Politics and the US Constitution – C963
+<details>American Politics and the US Constitution - C963 WGU Flashcards | Quizlet
 
 The Development of the Constitutional Democracy
 
@@ -53,7 +52,7 @@ Some states enabled it, some didn’t. With this case, it legalized same sex mar
 
 I need to know the Amendments.
 
-# The 27 Amendments
+#### The 27 Amendments
 	1st Amendment - Free Speech. Congress can’t make a law that forces a citizen to respect an establishment (group of people or company), religion, or personal opinion. They can’t make a law that ‘silences the words’ of a citizen. They can’t limit what the press or the news says. They can’t stop people from gathering peaceably. They can’t stop the government from people petitioning for a government change.
 	
 	2nd - Right to have weapons.
@@ -228,11 +227,11 @@ Income is a common demographic group.
 
 Passed the US Constitution Pre-Assessment. I’ll have to review it at a later date.
 Moving on to Physical and Human Geography.
+</details>
 
+## Introduction to Physical and Human Geography – D199
 
-# Introduction to Physical and Human Geography – D199
-
-Mikey: The course explores Climate Changes, the state of the world climate, current effects of climate change, potential solutions, and world politics in regards to each nation’s effect on the world climate.
+<details>Mikey: The course explores Climate Changes, the state of the world climate, current effects of climate change, potential solutions, and world politics in regards to each nation’s effect on the world climate.
 
 “Chapter 1 in the study is the bulk of the OA so spend most of the time studying that chapter. Understand Climate Change, Different climate agreement like the Paris Climate Agreement and the Kyoto Protocol”
 
@@ -263,15 +262,15 @@ Maps - https://quizlet.com/795120274/introduction-to-physical-and-human-geograph
 
 EDIT 6/7 - finally passed it and my god this class was so frustrating, my advice is to focus mostly on the first 4 lessons of 1, 2, and 3 with the exception of reading all the lessons in section 1, definitely need to understand the types of migrations and conflicts, physical geography and the effects of climate change, definitely use the quizlet that is provided here on this Reddit but don’t use it as your main source, definitely read the sections over and over and do the study guide on sections 1 and 3 that the instructor is suppose to provide you.’
 
-Mikey: You can study along with your Instructor? That’s cool.
+Mikey: You can study along with your Instructor? That’s cool.</details>
 
-# Natural Science Lab – C683
-Just a test of one’s understanding of the scientific method
+## Natural Science Lab – C683
+<details>Just a test of one’s understanding of the scientific method
 
 I’m gonna cut several bananas differently. Assert that the bigger the cut, the faster the rate of decay from the point of incision in a 4 hour period. Easy.
 
 ‘I did mine on which microwave popcorn brand yields the least unpopped kernels. Seriously, do not overthink this. You are not working on an experiment to change the world. You only need a simple experiment to use as a basis to show you understand the principles of how to do the experiment. Google the old course name Integrated Natural Science experiment to find examples. You can definitely do this during a weekend.’
-
+</details>
 # Web Development Foundations – D276
 Mikey: read up on HTML and CSS.
 
@@ -289,10 +288,10 @@ I took the pre-assessment again and reviewed all the answers wrong and right. Pa
 Day 3:
 Booked the OA at 7:30AM. Drank some coffee and made myself a nice breakfast. Reviewed the study guide for maybe 5 minutes and took the test. The OA was more difficult than the PA by a bit. If you understand the HTML and CSS concepts you'll be fine. The test tries to trick you in a majority of questions, keeping your eyes peeled. Especially, when they give you line(s) of code. (Oh, so there’s code strings in there.)
 Be on high alert and reread the questions multiple times. Ask yourself, "what are they looking for"? The test itself is only difficult because they really try to gauge if you know the knowledge by placing answer choices that seem to be right.
-I spent around 14-15 hours studying. Most importantly, your work ethic will play a big factor. I was hungry to pass this class, more so when I saw other reddit posts saying they failed or passed by a small margin. These resources pretty much contain the majority of the information you'll need for the OA.
+I spent around 14-15 hours studying. Most importantly, your work ethic will play a big factor. I was hungry to pass this class, more so when I saw other reddit posts saying they failed or passed by a small margin. These resources pretty much contain the majority of the information you'll need for the OA.</details>
 
-# Technical Communication – D339
-C768 Task 3 COMPLETE - C768/D339 Task 3 Section A: Email Write an email to your peers inviting them - Studocu
+## Technical Communication – D339
+<details>C768 Task 3 COMPLETE - C768/D339 Task 3 Section A: Email Write an email to your peers inviting them - Studocu
 
 I think this is just a class on how to present information.
 I’m gonna write a presentation on the best programming languages to learn.
@@ -313,14 +312,13 @@ Task 3 Watch 2 other videos and describe what they could have done better.
 
 
 Additional Classes
-I’ll add the classes when I’m done with the current terms. No use in stressing out by seeing the workload.
+I’ll add the classes when I’m done with the current terms. No use in stressing out by seeing the workload. </details>
+
+## Daily Journal
 
 
-# Daily Journal
 
-
-
-## Pre-Program Thoughts
+### Pre-Program Thoughts
 Dec 27 2023
 
 Feels like I’ve been studying up and getting ready for these classes since April of 2023. When I quit trucking.
@@ -342,7 +340,7 @@ Pomodoro Technique, huh?
 
 Study for an hour, take a quick workout and coffee break.
 
-## Dec 27
+### Dec 27
 So far it’s looking good. Using a version of the Pomodoro Technique. 45 minutes study, with 15 minute intervals. CJ and Jason do this all time.
 
 If I don’t finish a course in 6 months, that’s grounds for expulsion or academic probation.
@@ -355,7 +353,7 @@ Submit Banana Natural Science Lab
 Submit Technical Communication Project
 Pass Web Foundations (HTML/CSS)
 
-## Dec 28
+### Dec 28
 Did phenomenal yesterday. That’s what I want to see from myself.
 Okay.
 
@@ -450,9 +448,11 @@ Time to study HTML/CSS/XML.
 
 **HTML**
 ```
+
+<q>
 <p><strong>The weather is hot.</strong></p>
 <p><b>The weather is hot.</b></p>
-```
+
 <p><strong>The weather is hot.</strong></p>
 <p><b>The weather is hot.</b></p>
 
@@ -492,19 +492,19 @@ This probably means that li is list item.
 As of Dec 2023, HTML 5.2 Supports 142 HTML tags.
 115 are still usable with previous HTML versions.
 
-What is the difference with <h1> and <head>?
+What is the difference with <h1 and <head?
 is <title> the top tab title?
 
 isn't _cite_ the same thing as italic?
 
-<rubby> ruby annotation
+<rubby ruby annotation
 rt is 
 
-<s is strikethrough
-<u> is underlined
-<var> is variable for math
+</s is strikethrough
+</u is underlined
+</var is variable for math
 
-<wbr> is for long words. it's word break.
+</wbr is for long words. it's word break.
 
 Semantic HTML 
 
@@ -515,4 +515,21 @@ HTML canvas. <canvas></canvas
 Details is for a drop down menu.
 <details></details>
 
-**XML**
+Drop down is super useful. ```
+```
+<q></q>
+<!-- Span -->
+<span>Loading:</span>
+<progress id="file" value="32" max="100">
+32%
+</progress>
+
+noscript if java app is broken
+
+template to hide text when page loads
+
+time tag
+<dialog></dialog>
+dialog box.
+
+<input type="checkbox" />
