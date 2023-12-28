@@ -429,3 +429,31 @@ In 2040, it's predicted that the artic will be free of ice by the Summer then.
 The social cost of carbon is the total value of global damage caused by one additional ton of carbon at a given point in time.
 
 Fuel Cells can provide supplemental power to the current grid.
+
+Took the Pre-Assessment Again. Passed.
+
+**Passed Pre-Assessments**
+- [X] Physical and Human Geography
+- [X] Politics
+- [ ] Web Foundations
+- [X] Health, Fitness, and Wellness  - C458
+      
+**Labs**
+- [ ] Natural Science (Banana Project)
+- [ ] Technical Communication Presentation Recording
+      
+**Passed Courses, but would be nice to review**
+- [ ] It Introduction
+- [X] Composition
+
+Time to study HTML/CSS/XML.
+
+**HTML**
+```
+The Weather.
+
+```
+<p><strpng>The weather is hot.</strpng></p>
+
+
+**XML**
