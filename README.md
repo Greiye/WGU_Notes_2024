@@ -1,15 +1,18 @@
-Notes
+# Mike's WGU Notes
 I should write this in HTMl/CSS format. 
+
 Screw it.
+
 This document is gonna be informal. This is my personal notes after all.
 
-WGU Notebook Journal
-Planned Term 1
+## WGU Notebook Journal
+### Planned Term 1
 
+### Things I should do:
 Use Quizlet’s Magic Notes AI feature.
-American Politics and the US Constitution – C963
-American Politics and the US Constitution - C963 WGU Flashcards | Quizlet
 
+# American Politics and the US Constitution – C963
+American Politics and the US Constitution - C963 WGU Flashcards | Quizlet
 The Development of the Constitutional Democracy
 Structure of the United States Government
 Political Participation
