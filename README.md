@@ -450,10 +450,33 @@ Time to study HTML/CSS/XML.
 
 **HTML**
 ```
-The Weather.
-
+<p><strong>The weather is hot.</strong></p>
+<p><b>The weather is hot.</b></p>
 ```
-<p><strpng>The weather is hot.</strpng></p>
+<p><strong>The weather is hot.</strong></p>
+<p><b>The weather is hot.</b></p>
 
+These are acceptable ways to bold words.
+
+<q> is quotations marks.
+<p> is paragraph.
+<br> is bring down to the next line.
+
+it's 
+<html>
+ <head>
+	 <title>
+ </head>
+<body> 
+	<h1>Hello</h1>
+	<p> This is it.</p>
+</body>
+</html>
+
+<li> is list.
+<ol>
+	<li>Listy
+	</li>
+</ol>
 
 **XML**
