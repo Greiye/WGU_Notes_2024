@@ -533,3 +533,13 @@ time tag
 dialog box.
 
 <input type="checkbox" />
+
+All these concepts I've played with before, in different game engines.
+
+<input list>
+
+tf table footer
+useful for making my own little spreadsheets.
+
+image attributes
+alt for text in case image doesn't show up.
