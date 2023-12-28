@@ -1,9 +1,7 @@
 # Mike's WGU Notes
 I should write this in HTMl/CSS format. 
 
-Screw it.
-
-This document is gonna be informal. This is my personal notes after all.
+_Screw it._ This document is gonna be informal, since this is my personal notes after all.
 
 ## WGU Notebook Journal
 ### Planned Term 1
@@ -12,12 +10,12 @@ This document is gonna be informal. This is my personal notes after all.
 Use Quizlet’s Magic Notes AI feature.
 
 # American Politics and the US Constitution – C963
-American Politics and the US Constitution - C963 WGU Flashcards | Quizlet
-The Development of the Constitutional Democracy
-Structure of the United States Government
-Political Participation
-Civil Liberties and Civil Rights
-Public Opinion and Media
+	American Politics and the US Constitution - C963 WGU Flashcards | Quizlet
+	The Development of the Constitutional Democracy
+	Structure of the United States Government
+	Political Participation
+	Civil Liberties and Civil Rights
+	Public Opinion and Media
 
 Amendments and Landmark Court Cases. Majority of the test is this.
 
