@@ -479,4 +479,17 @@ it's
 	</li>
 </ol>
 
+Ugh. This is frustrating, garnering what the tags are off of the pre-assessment.
+https://www.w3schools.com/tags/
+
+All the tags.
+
+HTML Tags.
+
+ol is an ordered list.
+This probably means that li is list item.
+
+As of Dec 2023, HTML 5.2 Supports 142 HTML tags.
+115 are still usable with previous HTML versions.
+
 **XML**
