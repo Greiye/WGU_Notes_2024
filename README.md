@@ -396,3 +396,36 @@ Took the pre-assessment. Not hard. It's got intermediate health information. The
 
 
 Gotta Study Physical and Human Geography.
+Physical and Human Geography - D199
+
+Stringent means strict, rigid or stern. On a graph of child labor, the nation with the  
+
+Advantageous Relative Location just means a resource that can be used for the subject's benefit.
+
+Energy Losses are inevitable in an ecosystem cycle.
+
+Weber beliebves that a business location is determined by labor costs.
+
+Extreme natural boundaries often create neighboring lands with different cultures (take china and europe, with the mountain ranges and inhospitable area between them.
+
+GDP (Gross Domestic Product) overlooks essential activities that do not involve money.
+
+A country with too much national debt will incur currency inflation.
+
+A Global governance aims to alleviate collective action problems.
+
+The war in Syria affected Palestinian Migrants.
+
+Secondary Migration means moving from a first point to a second point.
+
+Removing carbon dioxide from atmosphere is key in lowering carbon emissions.
+
+Cap and Trade depends on market conditions.
+
+Market based solutions let businesses better understand their own carbon footprint.
+
+In 2040, it's predicted that the artic will be free of ice by the Summer then.
+
+The social cost of carbon is the total value of global damage caused by one additional ton of carbon at a given point in time.
+
+Fuel Cells can provide supplemental power to the current grid.
