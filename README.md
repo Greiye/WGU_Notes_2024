@@ -317,16 +317,19 @@ I’ll add the classes when I’m done with the current terms. No use in stressi
 
 
 # Daily Journal
-## Dec 27 2023
 
 
-Pre-Program Thoughts
+
+## Pre-Program Thoughts
+Dec 27 2023
+
 Feels like I’ve been studying up and getting ready for these classes since April of 2023. When I quit trucking.
 
 Took a few certifications for this program. I’m looking good. I have all I need. Loads of gym equipment to stay fit, responsible spending habits, support from mom. I’m ready for this.
 
 
 Looking to hit the ground running. Knock out these classes asap.
+
 Seeing a lot of information online about how to get through this stuff as quick as possible.
 
 Pre-Assessment Results
@@ -336,9 +339,10 @@ Studocu
 What is this? This looks useful.
 
 Pomodoro Technique, huh?
+
 Study for an hour, take a quick workout and coffee break.
 
-Dec 27
+## Dec 27
 So far it’s looking good. Using a version of the Pomodoro Technique. 45 minutes study, with 15 minute intervals. CJ and Jason do this all time.
 
 If I don’t finish a course in 6 months, that’s grounds for expulsion or academic probation.
@@ -351,25 +355,44 @@ Submit Banana Natural Science Lab
 Submit Technical Communication Project
 Pass Web Foundations (HTML/CSS)
 
-Dec 28
+## Dec 28
 Did phenomenal yesterday. That’s what I want to see from myself.
 Okay.
 
 Politics: Pre-Assess, done.
-Physical and Human Geography , not done.
-Banana Natural Science lab. I can take the photos now and just submit them.
-Technical Comms, I can write it through, but I don’t know what white pages are, if it’s assigned to me. I can only take it on Jan 2.
-Web Foundations. I took the Pre-Assessment. Lots of CSS/HTML/XML. Gotta Review. Heavy on the HTML. I can study this.
-Student Onboarding? It’s tomorrow. 4:30 or so. Gotta account for my time zone.
-Huh. Health and Fitness popped up in my courses.
+	1. Physical and Human Geography , not done.
+	1. Banana Natural Science lab. I can take the photos now and just submit them.
+	1. Technical Comms, I can write it through, but I don’t know what white pages are, if it’s assigned to me. I can only take it on Jan 2.
+	1. Web Foundations. I took the Pre-Assessment. Lots of CSS/HTML/XML. Gotta Review. Heavy on the HTML. I can study this.
+	1. Student Onboarding? It’s tomorrow. 4:30 or so. Gotta account for my time zone.
+	1. Huh. Health and Fitness popped up in my courses.
 
-Transferred my notes over on to Github. This is all just on a wordpad, pretty much. Clean. Efficient.
+**Transferred my notes over on to Github. This is all just on a wordpad, pretty much. Clean. Efficient.**
 ...no. It needs to be a little bit prettier.
 
 Link to Github Markdown.
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
+...
 Spent 15 minutes because I accidentally pasted text. The text had copied over 3x. Ugh.
 Okay. Check out Health and Wellness.
 
-# Health and Wellness
+## Health, Fitness, and Wellness - C458
+Took the pre-assessment. Not hard. It's got intermediate health information. There's social wellness as well. But it had a bit about pronouns? hmm. I don't like that.
+
+**Passed Pre-Assessments**
+- [ ] Physical and Human Geography
+- [X] Politics
+- [ ] Web Foundations
+- [X] Health, Fitness, and Wellness  - C458
+      
+**Labs**
+- [ ] Natural Science (Banana Project)
+- [ ] Technical Communication Presentation Recording
+      
+**Passed Courses, but would be nice to review**
+- [ ] It Introduction
+- [X] Composition
+
+
+
+Gotta Study Physical and Human Geography.
