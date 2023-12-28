@@ -492,4 +492,27 @@ This probably means that li is list item.
 As of Dec 2023, HTML 5.2 Supports 142 HTML tags.
 115 are still usable with previous HTML versions.
 
+What is the difference with <h1> and <head>?
+is <title> the top tab title?
+
+isn't _cite_ the same thing as italic?
+
+<rubby> ruby annotation
+rt is 
+
+<s is strikethrough
+<u> is underlined
+<var> is variable for math
+
+<wbr> is for long words. it's word break.
+
+Semantic HTML 
+
+HTML canvas. <canvas></canvas
+
+<button>Click Me</button>
+	
+Details is for a drop down menu.
+<details></details>
+
 **XML**
