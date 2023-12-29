@@ -1,6 +1,8 @@
 At a Glance:
+
 **Passed Pre-Assessments**
-a.k.a. Objective Assessments.
+
+<small>a.k.a. Objective Assessments.</small>
 - [X] Physical and Human Geography
 - [X] Politics
 - [ ] Web Foundations
