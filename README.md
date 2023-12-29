@@ -1,11 +1,8 @@
 <details>
-
+<summary>Mikey's WGU Notes</summary>
 I should write this in HTMl/CSS format. 
 	
 _Screw it._ This document is gonna be informal, since this is my personal notes after all.
-</details>
-
-<details>
 
 ### Planned Term 1
 
@@ -14,9 +11,8 @@ Use Quizlet’s Magic Notes AI feature.
 </details>
 
 <details>
-	<summary>American Politics and the US Constitution – C963</summary>
+<summary>American Politics and the US Constitution – C963</summary>
 	
-
 The Development of the Constitutional Democracy
 
 Structure of the United States Government
