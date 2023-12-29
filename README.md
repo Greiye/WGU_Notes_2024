@@ -1,8 +1,6 @@
 At a Glance:
 
 **Passed Pre-Assessments**
-
-<small>a.k.a. Objective Assessments.</small>
 - [X] Physical and Human Geography
 - [X] Politics
 - [ ] Web Foundations
@@ -11,10 +9,9 @@ At a Glance:
 **Labs**
 - [ ] Natural Science (Banana Project)
 - [ ] Technical Communication Presentation Recording
-      
-**Passed Courses, but would be nice to review**
-- [ ] It Introduction
-- [X] Composition
+
+### Todo:
+-Web Foundations Pre-Assessment Review
 
 <details>
 <summary>Mikey's WGU Notes</summary>
