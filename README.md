@@ -291,7 +291,9 @@ Be on high alert and reread the questions multiple times. Ask yourself, "what ar
 I spent around 14-15 hours studying. Most importantly, your work ethic will play a big factor. I was hungry to pass this class, more so when I saw other reddit posts saying they failed or passed by a small margin. These resources pretty much contain the majority of the information you'll need for the OA.</details>
 
 ## Technical Communication – D339
-<details>C768 Task 3 COMPLETE - C768/D339 Task 3 Section A: Email Write an email to your peers inviting them - Studocu
+<details>
+<summary>P-A Done.</summary>	
+C768 Task 3 COMPLETE - C768/D339 Task 3 Section A: Email Write an email to your peers inviting them - Studocu
 
 I think this is just a class on how to present information.
 I’m gonna write a presentation on the best programming languages to learn.
@@ -312,19 +314,17 @@ Task 3 Watch 2 other videos and describe what they could have done better.
 
 
 Additional Classes
-I’ll add the classes when I’m done with the current terms. No use in stressing out by seeing the workload. </details>
+I’ll add the classes when I’m done with the current terms. No use in stressing out by seeing the workload. 
+
+</details>
 
 ## Daily Journal
-
-
-
-### Pre-Program Thoughts
-Dec 27 2023
+<details>
+<summary>Pre-Program Thoughts: Dec 27 2023</summary>
 
 Feels like I’ve been studying up and getting ready for these classes since April of 2023. When I quit trucking.
 
 Took a few certifications for this program. I’m looking good. I have all I need. Loads of gym equipment to stay fit, responsible spending habits, support from mom. I’m ready for this.
-
 
 Looking to hit the ground running. Knock out these classes asap.
 
@@ -339,8 +339,10 @@ What is this? This looks useful.
 Pomodoro Technique, huh?
 
 Study for an hour, take a quick workout and coffee break.
+</details>
 
-### Dec 27
+<details>
+	<summary>Dec 27</summary>
 So far it’s looking good. Using a version of the Pomodoro Technique. 45 minutes study, with 15 minute intervals. CJ and Jason do this all time.
 
 If I don’t finish a course in 6 months, that’s grounds for expulsion or academic probation.
@@ -353,7 +355,9 @@ Submit Banana Natural Science Lab
 Submit Technical Communication Project
 Pass Web Foundations (HTML/CSS)
 
-### Dec 28
+</details>
+<details>
+	<summary>Dec 28</summary>
 Did phenomenal yesterday. That’s what I want to see from myself.
 Okay.
 
@@ -391,10 +395,12 @@ Took the pre-assessment. Not hard. It's got intermediate health information. The
 - [ ] It Introduction
 - [X] Composition
 
-
+</details>
 
 Gotta Study Physical and Human Geography.
-Physical and Human Geography - D199
+
+<details>
+<summary>Physical and Human Geography - D199</summary>
 
 Stringent means strict, rigid or stern. On a graph of child labor, the nation with the  
 
@@ -445,6 +451,7 @@ Took the Pre-Assessment Again. Passed.
 - [X] Composition
 
 Time to study HTML/CSS/XML.
+</details>
 
 **HTML**
 ```
@@ -612,4 +619,23 @@ Infered XML Schema. WHAT.
 
 XML. Interesting.
 
+</details>
+
+
+### Dec 29
+<details>
+	<summary>Pre-Assessments</summary>
+**Passed Pre-Assessments**
+- [X] Physical and Human Geography
+- [X] Politics
+- [ ] Web Foundations
+- [X] Health, Fitness, and Wellness  - C458
+      
+**Labs**
+- [ ] Natural Science (Banana Project)
+- [ ] Technical Communication Presentation Recording
+      
+**Passed Courses, but would be nice to review**
+- [ ] It Introduction
+- [X] Composition
 </details>
