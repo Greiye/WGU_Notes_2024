@@ -649,7 +649,15 @@ XML. Interesting.
 </details>
 
 <details>
-	<summary>Dec 29: Pre-Assessments</summary>
+	<summary>Dec 29</summary>
+
+Studied a good amount so far. Focused on HTML and some CSS/XML.
+Took the pre-assessment test again. 2 green lights out of 3 total areas of study.
+
+Review now.
+
+
+ 
 **Passed Pre-Assessments**
 - [X] Physical and Human Geography
 - [X] Politics
@@ -664,3 +672,19 @@ XML. Interesting.
 - [ ] It Introduction
 - [X] Composition
 </details>
+
+CSS: Padding values is Top Right Bottom Left in that order.
+
+Radio input types only allow for 1 selection/answer.
+
+name attribute is used by all forms.
+**What's a Name Attribute?**
+
+
+
+
+
+
+
+
+
