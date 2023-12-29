@@ -12,15 +12,86 @@ Dec 29 2023
 - [ ] Natural Science (Banana Project)
 - [ ] Technical Communication Presentation Recording
 
+
+<details>
+	<summary>29 December Notes</summary>
+	<p>
+		Studied up HTML and CSS Today. Whatever's on the Pre-Assessment.
+		CSS: Padding values is Top Right Bottom Left in that order.
+		Radio input types only allow for 1 selection/answer.
+		Name attribute is used by all forms.
+		it's specifically used to reference an element in Javascript.
+		like for data entry forms, it's to use a reference for submitted data.
+
+th - table header
+tr - table row
+td - table data, but can also double as table column.
+
+browsers will find the index.html file in the root directory.
+
+captions are optional in html.
+
+html img uses src and alt. src to find the image source from the root directory of the html file, and alt to state in text what the image is. In the event the image fails to load.
+
+External CSS lets an elements's style update from multiple pages from a single location.
+Internal CSS is used for page-lebel style declaration.s
+
+what tag is used to reference an external css sheet from within an HTML document?
+link.
+
+What style rule selects and formats childless paragraph element?
+p:empty
+
+What is that?
+
+<!--
+#one.two{
+color:yellow;
+}
+
+<div id="one class="two> This should be yellow</div>
+>
+
+is div, like a blank square on a web page? 
+
+CSS classes can be used in Javascript.
+Classes start with a period.
+With that extrapolation, # Must be the start of an ID.
+
+Selector Styles: ::first-letter
+hmm. 
+
+selector styles are patterns used to select the elements you want to style.
+
+Are selector testers good for troubleshooting CSS issues? A kind of debugger?
+
+2PM 29 DEC 2023
+At this current time, I feel focused. Flow State. just trying to understand what I don't get.
+W3 Schools has been a great asset in learning HTML.
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary>Mikey's WGU Notes</summary>
 I should write this in HTMl/CSS format. 
 	
 _Screw it._ This document is gonna be informal, since this is my personal notes after all.
 
-### Planned Term 1
+Planned Term 1
 
-#### Things I should do:
+Things I should do:
 Use Quizlet’s Magic Notes AI feature. 
 </details>
 
@@ -670,19 +741,5 @@ Review now.
 - [ ] It Introduction
 - [X] Composition
 </details>
-
-CSS: Padding values is Top Right Bottom Left in that order.
-
-Radio input types only allow for 1 selection/answer.
-
-name attribute is used by all forms.
-**What's a Name Attribute?**
-
-
-
-
-
-
-
 
 
