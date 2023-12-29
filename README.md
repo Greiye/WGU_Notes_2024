@@ -69,8 +69,53 @@ Are selector testers good for troubleshooting CSS issues? A kind of debugger?
 At this current time, I feel focused. Flow State. just trying to understand what I don't get.
 W3 Schools has been a great asset in learning HTML.
 
+XMP is Case sensitive and disallows errors.
 
+div should be used when a developer needs to use a tag that doesn't apply a default format or style.
 
+HTML is static, while XML is extensible.
+
+. is for class
+(#) is for id
+: is a style selector.
+
+~ generates sibling elements
+
+styling float and clear are interchangeable with each other.
+
+Responsive layouts
+
+A Polygon hotspot begins and ends at the same pair of coordinates. They also contain many pairs of coordinates.
+
+A text editor, any, is best for HTML.
+
+padding with 3 values: it's top, both sides, then bottom.
+
+(<div>)'s are usually used for page blocking.
+
+knowing margin, padding, boarder and height/width is important. and what to do if you're getting 2-4 values.
+
+Class: interchangable with Java Classes.
+
+psuedo classes?
+like with a:visited. That's a pseudo class?
+
+Relative Lengths. I see this is important.
+
+em is 2x the current font size
+ex is the x-height
+ch about width
+rem is font size of the root element.
+vw is viewport width
+vh is viewport is height
+
+this is important for window sizing and Responsive Layouts.
+
+vmin is viewport minimum
+vmax is viewport maximum.
+% is the symbol for relativity to the parent element.
+
+Good Day. Learned a lot.
 </p>
 </details>
 
