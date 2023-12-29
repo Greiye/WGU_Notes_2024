@@ -543,3 +543,73 @@ useful for making my own little spreadsheets.
 
 image attributes
 alt for text in case image doesn't show up.
+
+Dec 29
+Some of the material took in my mind.
+I know about html attributes. styles. colors. It's all for text information. And I would believe some limited programming.
+
+Style Attribute
+Background Color
+Color
+Font-Family
+Font-Size
+Text-Align
+
+Mikey: Randomly thinking about that one Markdown game and chatgpt.
+
+there's 140 color names in HTML
+
+Reminder: Hex color uses #FFFFFF. that's 3 values expressees through hexidecimal value. 
+
+HSL is Hue Saturation and Lightness.
+
+HSLA is the same but with alpha.
+
+HTML Tables.
+THis is useful for me.
+
+tr table range
+th header
+td data
+
+You can make HTMl tables pretty.
+HTML Block
+
+<div. I see this a lot. an element that's used as a container for other HTML elements.
+div defines a section in a document. specifically for block-level.
+
+span does the same, but inline.
+
+q tag is not mark tag. mark is **marker**.
+
+It's 
+HTML
+HEAD
+BODY
+
+in that one question, I used h1 instead of head.
+
+## XML
+<details>
+eXtensible markup language
+"XML Separates implementation from presentation."
+- Stores and transport data.
+- designed to be self-descriptive.
+
+Has sender information
+has Reciever information
+a heading and body.
+
+Application Programming Interface
+
+YOu can make your own tags (Variables) in XML.
+
+WWW Consortium 
+
+XML Trees. hmmm.
+
+Infered XML Schema. WHAT.
+
+XML. Interesting.
+
+</details>
