@@ -1,17 +1,16 @@
 At a Glance:
 
-**Passed Pre-Assessments**
-- [X] Physical and Human Geography
-- [X] Politics
+Dec 29 2023
+
+**Pre-Assessments**
 - [ ] Web Foundations
-- [X] Health, Fitness, and Wellness  - C458
+- [X] <s>Physical and Human Geography</s>
+- [X] <s>Politics</s>
+- [X] <s>Health, Fitness, and Wellness  - C458</s>
       
 **Labs**
 - [ ] Natural Science (Banana Project)
 - [ ] Technical Communication Presentation Recording
-
-### Todo:
--Web Foundations Pre-Assessment Review
 
 <details>
 <summary>Mikey's WGU Notes</summary>
@@ -341,10 +340,9 @@ I’ll add the classes when I’m done with the current terms. No use in stressi
 
 </details>
 
-## Daily Journal
 <details>
-<summary>Pre-Program Thoughts: Dec 27 2023</summary>
-
+<summary>Pre-Program Thoughts</summary>
+Dec 27 2023
 Feels like I’ve been studying up and getting ready for these classes since April of 2023. When I quit trucking.
 
 Took a few certifications for this program. I’m looking good. I have all I need. Loads of gym equipment to stay fit, responsible spending habits, support from mom. I’m ready for this.
