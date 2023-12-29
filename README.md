@@ -50,7 +50,7 @@ color:yellow;
 }
 
 <div id="one class="two> This should be yellow</div>
->
+-->
 
 is div, like a blank square on a web page? 
 
