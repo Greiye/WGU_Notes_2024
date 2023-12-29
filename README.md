@@ -1,3 +1,19 @@
+At a Glance:
+**Passed Pre-Assessments**
+a.k.a. Objective Assessments.
+- [X] Physical and Human Geography
+- [X] Politics
+- [ ] Web Foundations
+- [X] Health, Fitness, and Wellness  - C458
+      
+**Labs**
+- [ ] Natural Science (Banana Project)
+- [ ] Technical Communication Presentation Recording
+      
+**Passed Courses, but would be nice to review**
+- [ ] It Introduction
+- [X] Composition
+
 <details>
 <summary>Mikey's WGU Notes</summary>
 I should write this in HTMl/CSS format. 
@@ -462,6 +478,9 @@ Time to study HTML/CSS/XML.
 </details>
 
 **HTML**
+<details>
+	<summary>**HTML**</summary>
+
 ```
 
 <q>
@@ -603,9 +622,10 @@ HEAD
 BODY
 
 in that one question, I used h1 instead of head.
-
+</details>
 ## XML
 <details>
+	<summary>## XML</summary>
 eXtensible markup language
 "XML Separates implementation from presentation."
 - Stores and transport data.
@@ -629,10 +649,8 @@ XML. Interesting.
 
 </details>
 
-
-### Dec 29
 <details>
-	<summary>Pre-Assessments</summary>
+	<summary>Dec 29: Pre-Assessments</summary>
 **Passed Pre-Assessments**
 - [X] Physical and Human Geography
 - [X] Politics
