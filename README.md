@@ -620,9 +620,9 @@ BODY
 
 in that one question, I used h1 instead of head.
 </details>
-## XML
+
 <details>
-	<summary>## XML</summary>
+	<summary>XML</summary>
 eXtensible markup language
 "XML Separates implementation from presentation."
 - Stores and transport data.
