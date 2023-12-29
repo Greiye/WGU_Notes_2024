@@ -264,16 +264,20 @@ Maps - https://quizlet.com/795120274/introduction-to-physical-and-human-geograph
 
 EDIT 6/7 - finally passed it and my god this class was so frustrating, my advice is to focus mostly on the first 4 lessons of 1, 2, and 3 with the exception of reading all the lessons in section 1, definitely need to understand the types of migrations and conflicts, physical geography and the effects of climate change, definitely use the quizlet that is provided here on this Reddit but don’t use it as your main source, definitely read the sections over and over and do the study guide on sections 1 and 3 that the instructor is suppose to provide you.’
 
-Mikey: You can study along with your Instructor? That’s cool.</details>
-
-## Natural Science Lab – C683
-<details>Just a test of one’s understanding of the scientific method
+Mikey: You can study along with your Instructor? That’s cool.
+</details>
+<details>
+<summary>Natural Science Lab – C683</summary>
+	Just a test of one’s understanding of the scientific method
 
 I’m gonna cut several bananas differently. Assert that the bigger the cut, the faster the rate of decay from the point of incision in a 4 hour period. Easy.
 
 ‘I did mine on which microwave popcorn brand yields the least unpopped kernels. Seriously, do not overthink this. You are not working on an experiment to change the world. You only need a simple experiment to use as a basis to show you understand the principles of how to do the experiment. Google the old course name Integrated Natural Science experiment to find examples. You can definitely do this during a weekend.’
 </details>
-# Web Development Foundations – D276
+
+<details>
+	<summary>Web Development Foundations – D276</summary>
+
 Mikey: read up on HTML and CSS.
 
 Day 1:
@@ -290,7 +294,8 @@ I took the pre-assessment again and reviewed all the answers wrong and right. Pa
 Day 3:
 Booked the OA at 7:30AM. Drank some coffee and made myself a nice breakfast. Reviewed the study guide for maybe 5 minutes and took the test. The OA was more difficult than the PA by a bit. If you understand the HTML and CSS concepts you'll be fine. The test tries to trick you in a majority of questions, keeping your eyes peeled. Especially, when they give you line(s) of code. (Oh, so there’s code strings in there.)
 Be on high alert and reread the questions multiple times. Ask yourself, "what are they looking for"? The test itself is only difficult because they really try to gauge if you know the knowledge by placing answer choices that seem to be right.
-I spent around 14-15 hours studying. Most importantly, your work ethic will play a big factor. I was hungry to pass this class, more so when I saw other reddit posts saying they failed or passed by a small margin. These resources pretty much contain the majority of the information you'll need for the OA.</details>
+I spent around 14-15 hours studying. Most importantly, your work ethic will play a big factor. I was hungry to pass this class, more so when I saw other reddit posts saying they failed or passed by a small margin. These resources pretty much contain the majority of the information you'll need for the OA.
+</details>
 
 ## Technical Communication – D339
 <details>
