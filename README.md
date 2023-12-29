@@ -231,9 +231,9 @@ Passed the US Constitution Pre-Assessment. I’ll have to review it at a later d
 Moving on to Physical and Human Geography.
 </details>
 
-## Introduction to Physical and Human Geography – D199
-
-<details>Mikey: The course explores Climate Changes, the state of the world climate, current effects of climate change, potential solutions, and world politics in regards to each nation’s effect on the world climate.
+<details>
+	<summary>Introduction to Physical and Human Geography – D199</summary>
+	Mikey: The course explores Climate Changes, the state of the world climate, current effects of climate change, potential solutions, and world politics in regards to each nation’s effect on the world climate.
 
 “Chapter 1 in the study is the bulk of the OA so spend most of the time studying that chapter. Understand Climate Change, Different climate agreement like the Paris Climate Agreement and the Kyoto Protocol”
 
@@ -297,9 +297,10 @@ Be on high alert and reread the questions multiple times. Ask yourself, "what ar
 I spent around 14-15 hours studying. Most importantly, your work ethic will play a big factor. I was hungry to pass this class, more so when I saw other reddit posts saying they failed or passed by a small margin. These resources pretty much contain the majority of the information you'll need for the OA.
 </details>
 
-## Technical Communication – D339
+
 <details>
-<summary>P-A Done.</summary>	
+<summary>Technical Communication – D339</summary>
+P-A Done.
 C768 Task 3 COMPLETE - C768/D339 Task 3 Section A: Email Write an email to your peers inviting them - Studocu
 
 I think this is just a class on how to present information.
