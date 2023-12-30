@@ -3,7 +3,7 @@ At a Glance:
 Dec 29 2023
 
 **Pre-Assessments**
-- [ ] Web Foundations
+- [X] Web Foundations
 - [X] <s>Physical and Human Geography</s>
 - [X] <s>Politics</s>
 - [X] <s>Health, Fitness, and Wellness  - C458</s>
@@ -116,6 +116,17 @@ vmax is viewport maximum.
 % is the symbol for relativity to the parent element.
 
 Good Day. Learned a lot.
+
+Rendered Box model check for improper styling elements, rendering errors.
+
+What is CDN? For Bootstrap?
+Content Delivery Network
+
+OMG. For WGU, You can only take the test Objective Assessments 3 times.
+So I gotta be SURE that I get the material.
+
+Did the Pre-Assessment.
+
 </p>
 </details>
 
