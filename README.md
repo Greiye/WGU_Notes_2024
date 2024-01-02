@@ -51,8 +51,11 @@ The Electoral College selects the president and vice president based off of popu
 a joint committee is a committee with the House of Representatives and the house Senate. it's created to work on issues that both of them have control over. Or affect both chambers.
 
 Kind of having fun with the A.I. Algorithym in Quizlet.
-
 </details>
+Added GIFs into the repository.
+Having fun with that, actually. adding images.
+
+---------------------------------------------------------------------------------------------------------------------------
 
 <details>
 	<summary>Dec 29 2023</summary>
