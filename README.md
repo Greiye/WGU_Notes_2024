@@ -1,7 +1,7 @@
 At a Glance:
 Studying American Politics C963
 
-<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
+<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="256" height="200">
 
 <details>
 <summary>
