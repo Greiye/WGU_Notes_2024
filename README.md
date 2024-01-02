@@ -52,6 +52,25 @@ a joint committee is a committee with the House of Representatives and the house
 
 Kind of having fun with the A.I. Algorithym in Quizlet.
 
+1. Read the WGU Docs
+2. Take the Notes and write them here (can't copy paste, as it doesn't help information retention.)
+3. Paste these notes onto Quizlet for it's AI retention assistance
+4. Take the Assessment.
+5. 
+
+There was a debate for ratification of the Bill of rights. some people opposed this. They were commited to the Declaration of Independence as is. They were known as the Anti-Federalists.
+
+The Constitution was designed to keep factional powers in check with each other. It was a key consideration at the time of drafting the Constitution. Those who 'framed' the important topics of the Constitution drew inspiration from Montesquieu's principles.
+
+The Enlightenment was the source of people's ideas about natural rights. it was a period following the middle ages.
+
+
+
+
+
+
+
+
 
 
 </details>
