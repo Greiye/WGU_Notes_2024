@@ -1,7 +1,59 @@
 At a Glance:
+Studying American Politics C963
 
-Dec 29 2023
+<details>
+<summary>
+	2 Jan 2024
+</summary>
+ 
 
+Officially Started WGU. 1115hrs.
+
+First Up, American Politics.
+Purpose of a social contract is to acknowledge and protect natural rights
+
+They say that you can see the effects of the Enlightenment Era in the Declaration of Independence.
+Montesqeuieu?
+
+Bicameral Legislature.
+
+I see through Quizlet that the questions are going to be different and in different number compared to the pre-Assessment.
+
+**Quizlet has a testing function. Super useful.**
+
+The New Jersey plan.
+Willian Paterson was involved.
+It enabled every state to have one vote towards something.
+At the time, it was a one chamber legislature. Unicameral.
+The Supremacy Clause was the 'Law of the Land'.
+
+This was against the Virginia plan, by James Madison.
+It supposed for Three Branches of Government. and Two Chambers.
+The House is elected by the people.
+The Senate, appointed by legislature.
+Votes based of Population.
+
+The Great Compromise
+had to do with slavery.
+
+Federalists were supporters of the Constitution.
+Anti-Federalists opposed the constitution, but did not necessarily want state sovereignty.
+
+Federalist Paper 10
+argued that factions were inevitable.
+
+Quizlet also has Q-Chat. It's like texting a friend. It feels more organic. I like it.
+
+The Electoral College selects the president and vice president based off of popular vote. Not really connected to voting districts or counties. ( I think)
+
+a joint committee is a committee with the House of Representatives and the house Senate. it's created to work on issues that both of them have control over. Or affect both chambers.
+
+Kind of having fun with the A.I. Algorithym in Quizlet.
+
+</details>
+
+<details>
+	<summary>Dec 29 2023</summary>
 **Pre-Assessments**
 - [X] Web Foundations
 - [X] <s>Physical and Human Geography</s>
@@ -12,6 +64,7 @@ Dec 29 2023
 - [ ] Natural Science (Banana Project)
 - [ ] Technical Communication Presentation Recording
 
+</details>
 
 <details>
 	<summary>29 December Notes</summary>
