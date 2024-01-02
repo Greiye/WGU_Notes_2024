@@ -1,6 +1,8 @@
 At a Glance:
 Studying American Politics C963
 
+<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
+
 <details>
 <summary>
 	2 Jan 2024
