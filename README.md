@@ -1,7 +1,14 @@
 At a Glance:
-Studying American Politics C963
-
+Studying wil waiting for the webcam tripod to arrive tomorrow. I can't get the angle that I need. 
 <img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="256" height="200">
+
+
+<details>
+	<summary>
+	3 Jan 2024
+	</summary>
+	
+</details>
 
 <details>
 <summary>
