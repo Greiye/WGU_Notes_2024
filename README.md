@@ -12,6 +12,9 @@ Studying American Politics C963
 Officially Started WGU. 1115hrs.
 
 First Up, American Politics.
+
+<img src="https://media2.giphy.com/media/uKwa2KiBA0rTy/200w.gif?cid=6c09b952g68v8u37vx4ucect4ip01c3m4gd1bln5chtn3f7a&ep=v1_gifs_search&rid=200w.gif&ct=g?" width="25%" height="25%">
+
 Purpose of a social contract is to acknowledge and protect natural rights
 
 They say that you can see the effects of the Enlightenment Era in the Declaration of Independence.
@@ -65,9 +68,34 @@ The Constitution was designed to keep factional powers in check with each other.
 The Enlightenment was the source of people's ideas about natural rights. it was a period following the middle ages.
 
 
+Need to Review Lesson 3
 
+Unicameral Congress has one chamber.
 
+It made for two chambers: the Senators and the Representatives.
 
+Each state was allowed only two members for the basis of representation under the Articles of Confederation.
+
+Under the Articles of Confederation, the government can:
+- Borrow and Coin Money from other nations.
+- Declare war
+- Make treaties and alliances
+- Regulate tradw with natives
+- Settle disputes between states.
+
+Lesson 4.4 Questions.
+
+Government at the time of writing the articles of confederation was limited because it was to prevent the government from becoming too powerful or abusing the rights of individual citizens.
+
+The national government under the articles of confederation were limited to maintain the sovereignty of state governments.
+
+the articles of confederation enabled the government to create an army and a navy.
+
+The articles of confederation failed because they gave the states too much authority. They also severely  limited the powers of the government, making it weak and ineffective.
+
+Too Much of one subject.
+
+moving onto another one.
 
 
 
