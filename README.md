@@ -1,7 +1,47 @@
 At a Glance:
-Studying wil waiting for the webcam tripod to arrive tomorrow. I can't get the angle that I need.
+Tried to take the test the other day. Did not have the proper sound equipment. Taking 2 Tests by the 5th, Tomorrow.
 
-<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
+
+<img align="right" src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
+
+<!---------------------- 
+This is the Template
+
+<details>
+	<summary>
+	</summary>
+<p>
+</p> 
+</details>
+--------------------------!>
+
+<details>
+	<summary>
+ 4 Jan 2024 : Thursday
+	</summary>
+<p>
+Tried taking the test yesterday. Didn't have the proper gear. Whack. Ordered it online. Should be test ready by tomorrow. Until then, more studies.
+
+Feeling good, high moral.
+
+Review of American Constitution.
+Section 1: The Development of the Democracy.
+Section 2: The Structure of the Government
+Section 3: Political Participation ( How people get involved.)
+Section 4: Civil Livberties and Rights: Everyone's rights.
+Section 5: What the people see in politics
+
+Federalists wanted a strong government because of the threat of organized Great Britain.
+Anti Federalists didn't want to be governed by a large body due to corruption. They did, want strong state powers.
+
+In Federalist no. 10, the diverse interest of citizens prevent the development of powerful interests.
+
+The Major issue with the Articles of Confederacy is that they could not impose taxes. This meant no large treasury.
+
+
+
+</p> 
+</details>
 
 
 <details>
