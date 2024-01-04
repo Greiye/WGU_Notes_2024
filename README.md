@@ -1,13 +1,24 @@
 At a Glance:
-Studying wil waiting for the webcam tripod to arrive tomorrow. I can't get the angle that I need. 
-<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="256" height="200">
+Studying wil waiting for the webcam tripod to arrive tomorrow. I can't get the angle that I need.
+
+<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
 
 
 <details>
 	<summary>
 	3 Jan 2024
 	</summary>
-	
+Studying Health at the moment. should be an easy A.
+
+Unit 1 Quiz
+Body System for Oxygen and Expelling Carbon Dioxide
+Respiratory
+
+Supply of Nutrients and Oxygen to Body Cells
+Cardiovascular System
+
+
+
 </details>
 
 <details>
