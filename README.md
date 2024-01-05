@@ -28,6 +28,23 @@ At a Glance:
 Study up. The needed speakers are coming in today.
 Study habits are weak compared to how I first started out, but better than nothing.
 Feeling Good.
+
+Waiting on the external speakers that I need for test taking ( I know, weird.)
+I think I'm ready to take the health and politics assessment.
+I should write that natural sciences paper.
+
+Hypothesis: A rotting open banana can spread to a closed banana.
+
+Keep even unopen bananas away from rotting banana.
+8hr experiment.
+
+Noticable Study Habits.
+45Mins/15 Minute break is ideal. Maybe I can stretch it out further more study time.
+Deleting my games doesn't help. I still find a way to play games with friends. Exchange this for something better.
+
+
+
+
 </p> 
 </details>
 
