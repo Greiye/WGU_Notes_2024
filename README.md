@@ -1,10 +1,10 @@
 At a Glance:
-Tried to take the test the other day. Did not have the proper sound equipment. Taking 2 Tests by the 5th, Tomorrow.
+
 
 
 <img align="right" src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
 
-<!---------------------- 
+<!--------------------------------------------------------------
 This is the Template
 
 <details>
@@ -13,7 +13,19 @@ This is the Template
 <p>
 </p> 
 </details>
---------------------------!>
+----------------------------------------------------------------!>
+
+<details>
+	<summary>
+ 5 Jan 2024
+	</summary>
+<p>
+Study up. The needed speakers are coming in today.
+Study habits are weak compared to how I first started out, but better than nothing.
+Feeling Good.
+</p> 
+</details>
+
 
 <details>
 	<summary>
