@@ -1,9 +1,4 @@
-At a Glance:
-
-
-
-<img align="right" src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
-
+<header>
 <!--------------------------------------------------------------
 This is the Template
 
@@ -14,6 +9,16 @@ This is the Template
 </p> 
 </details>
 ----------------------------------------------------------------!>
+</header>
+
+<body>
+At a Glance:
+
+
+
+<img align="right" src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
+
+
 
 <details>
 	<summary>
@@ -29,7 +34,7 @@ Feeling Good.
 
 <details>
 	<summary>
- 4 Jan 2024 : Thursday
+ 4 Jan 2024
 	</summary>
 <p>
 Tried taking the test yesterday. Didn't have the proper gear. Whack. Ordered it online. Should be test ready by tomorrow. Until then, more studies.
@@ -980,4 +985,4 @@ Review now.
 - [X] Composition
 </details>
 
-
+</body>
