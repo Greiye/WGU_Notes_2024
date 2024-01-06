@@ -13,11 +13,12 @@ This is the Template
 
 <body>
 (Document is Chronological, starting from the bottom, current date to the top.)
-At a glance:
+	
+# At a glance:
 	
 -----------------------------------------------------------------------------
 	
-**Passed Assessments**
+**January Todo**
 - [ ] Physical and Human Geography
 - [ ] Politics
 - [ ] Web Foundations
