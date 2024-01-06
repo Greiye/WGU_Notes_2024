@@ -1016,4 +1016,71 @@ Review now.
 - [X] Composition
 </details>
 
+
+<details>
+	<summary>
+		The Plan
+	</summary>
+<p>
+	Get this degree in a year.
+Jan 2, 12pm was start time.
+ 
+ **January**
+	- [X] Health and Fitness
+ Jan 5  3 Days in.
+	- [ ] American Politics and the US Constitution – C963
+	- [ ] Natural Science Lab – C683
+	- [ ] Introduction to Physical and Human Geography – D199
+	- [ ] Web Development Foundations – D276
+	- [ ] Technical Communication – D339
+	- [ ] Network and Security - Foundations – D315
+ **Feb**
+ 	- [ ] Data Management - Foundations – D426
+	- [ ] Hardware and Operating Systems Essentials – D386
+	- [ ] Data Management - Applications – D427
+ **March**
+	- [ ] Introduction to Systems Thinking – D372
+	- [ ] Version Control – D197
+	- [ ] Cloud Foundations – D282
+ **April**
+	- [ ] Scripting and Programming - Foundations – D278
+	- [ ] Applied Probability and Statistics – C955
+	- [ ] Business of IT - Project Management – D324
+ **May**
+	- [ ] Applied Algebra – C957
+	- [ ] Introduction to Programming in Python – D335
+	- [ ] Ethics in Technology – D333
+ **June** 
+	- [ ] Business of IT – Applications – D336
+	- [ ] Data Structures and Algorithms I – C949
+	- [ ] IT Leadership Foundations – D370
+
+ **July**
+	- [ ] Front-End Web Development – D277
+	- [ ] JavaScript Programming – D280
+	- [ ] Software Engineering – D284
+ **August**
+	- [ ] Java Fundamentals – D286
+	- [ ] User Interface Design – D279
+	- [ ] User Experience Design – D479
+ **September**
+	- [ ] Back-End Programming – D288
+	- [ ] Advanced Java – D387
+	- [ ] Software Design and Quality Assurance – D480
+ **October**
+	- [ ] Advanced Data Management – D326
+	- [ ] Software Security and Testing – D385
+	- [ ] Mobile Application Development (Android) – D308
+ **November**
+	- [ ] Software Engineering Capstone – D424
+	- [ ]
+	- [ ]
+ **December**
+	- [ ]
+	- [ ]
+	- [ ]
+ 
+</p> 
+</details>
+
 </body>
