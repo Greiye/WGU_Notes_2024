@@ -12,7 +12,7 @@ This is the Template
 </header>
 
 <body>
-At a Glance:
+-At a Glance-------------------
 	
 **Passed Assessments**
 - [ ] Physical and Human Geography
