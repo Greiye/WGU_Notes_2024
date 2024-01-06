@@ -23,7 +23,7 @@ This is the Template
 **Labs**
 - [ ] Natural Science (Banana Project)
 - [ ] Technical Communication Presentation Recording
-
+-----------------------------------------------------------------------------
 <img align="right" src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
 
 
