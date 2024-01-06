@@ -28,7 +28,53 @@ This is the Template
 -----------------------------------------------------------------------------
 <img align="right" src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="128" height="100">
 
+<details>
+	<summary>
+		6 Jan 2024
+	</summary>
+<p>
+The American Politics Test
+	It covered some of the Enlightenment Period
+	Founding Fathers
+	COnfederation
+	Changes/
+	Amendments
+	Federalist vs Anti
+	Structure of the Government
+	2 Chamber/Groups
+	The Representatives and the Senate
+	Which makes Congress.
+	All about passing bills.
+	Can come from Reps or Senate.
+	435 Representatives in Lower House, House of Reps.
+	Every Even Year is re-election. 2 Years, max of 6 terms. 12 years total service.
+	
+	House of Reps has a speaker.
+	Nique Rep House Powers
+	Inituate Tax Laws and Spending Bills
+	Initiate Impeachment of a President or other Official
+	Can tie break president by deciding the vote.
 
+ Senate, upper house
+ 2 senators per state.
+ 6 year terms. 2 terms only. so 12 years.
+ Every 12 years, a new set of Congress.
+ Every even year, 1/3 senate up for re-election.
+ Senators used to be voted by legislature (Congress)
+ Now voted in by the people.
+ Vice Prez serves as house of senate
+ Senate only can approve presidential appointments and treaties
+
+ President Can veto a bill. COngress can get passed it with 2/3rds majority vote.
+
+ President's Cabinet. Executive Branch.
+ Executive Orders do not have to be approved by congress.
+ Judicial can veto the orders.
+ gotta be 35 years old, natural born citizen, lived in america for 14 years.
+ 22nd Amendment made the president terms 2 max. 8 years total.
+ 
+</p> 
+</details>
 
 <details>
 	<summary>
