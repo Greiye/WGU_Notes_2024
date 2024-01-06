@@ -50,7 +50,11 @@ The American Politics Test
 	Every Even Year is re-election. 2 Years, max of 6 terms. 12 years total service.
 	
 	House of Reps has a speaker.
-	Nique Rep House Powers
+ Reps have to be 25 Years old, 7 years US citizen
+Senate hae to be 30 years old, citizen for 9 years
+
+ 
+	Unique Rep House Powers
 	Inituate Tax Laws and Spending Bills
 	Initiate Impeachment of a President or other Official
 	Can tie break president by deciding the vote.
@@ -72,6 +76,16 @@ The American Politics Test
  Judicial can veto the orders.
  gotta be 35 years old, natural born citizen, lived in america for 14 years.
  22nd Amendment made the president terms 2 max. 8 years total.
+President appoints judges, embassadors, cabinet secretaries, high government officials
+Senate is President's "Advice and Consent"
+
+
+
+ WGU Video: Reps and Senates have no limits
+House of Reps involves House Rules Committee, Limits Debate
+Senate, Unlimited Debate and Cloture
+Cloture (3/5 of senate vote to end debate)
+ 
  
 </p> 
 </details>
