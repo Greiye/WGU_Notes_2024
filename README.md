@@ -42,7 +42,11 @@ Noticable Study Habits.
 45Mins/15 Minute break is ideal. Maybe I can stretch it out further more study time.
 Deleting my games doesn't help. I still find a way to play games with friends. Exchange this for something better.
 
+...
+Passed Health and Fitness Exam.
 
+American Politics was hard. It focused on more modern stuff.
+I know
 
 
 </p> 
