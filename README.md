@@ -46,7 +46,7 @@ Deleting my games doesn't help. I still find a way to play games with friends. E
 Passed Health and Fitness Exam.
 
 American Politics was hard. It focused on more modern stuff.
-I know
+I know i gotta study.
 
 
 </p> 
