@@ -37,6 +37,53 @@ Okay, Last I left off, Primaries Vs Caucus
 
 candidates who want to succeed in the primary contests of election should seek to align themselves with committed partisans who are often at the ideological extreme.
 
+I should start a github wiki.
+
+The General Election
+
+Let's Go, finish section 3.
+
+The 2020 Elections were odd.
+
+The goal of the presidential candidate is to secure as many electoral votes as possible in a Electoral College system
+
+the 12th amendment required separate votes for the president and vice president it avoided the situation in which the president and vice candidates would receive the same number of votes and be tied requiring the president to be elected by the House of Representatives.
+
+public funding is government funding
+
+in the quiz questions, there's a lot of attention paid to how different the concourses the general or primary election is.
+
+1 In recent decades the process for nominating a presidential candidate has become longer in the nomination process as well as shifted power for nominating candidates to state party primary elections.
+2 critics often criticize the Electoral College believing that it undermines the majority rule, it negates the expectations of the one person one vote majority system, and that it lessens the political participation of safe states ( not to be confused by swing states, that often change over the years
+3 before, the king caucus consists of party leaders from state legislature. And it also reflected the emergence and rise of political parties from way back when.
+4 the political party caucuses first used by a political parties congressional legislators to decide on the party's presidential nominees. Before, this was done unofficially, behind closed doors. It has since become more publicized.
+
+5 the rise of primary systems in the progressive area gave more control to regular party members for selecting a party's candidates.
+
+Jesus, so much information. It's dense.
+
+**Physical and Human Geography**
+Types of Maps
+Reference Maps
+Thematic Maps - have a single topic or purpose or theme.
+Earliest Map was 25,000BCE. 
+Medieval Maps, more figurative.
+Age of Exploration Maps
+Verbal Descriptions
+Scale
+Representative Fraction
+Small or Large Scale
+
+I can actually use this map information for exploration and piloting.
+Globe maps are from +180 to -180. Longitude. East and West.
+Prime Meridian is 0.
+Latitude is -90 to 90N. North. So -90 is South Pole. Antarctica.
+
+Graticule is Coordinates. on a 3D globe. 
+
+Projections: Type of Inaccuracies from the many different maps available.
+
+
 
 </p> 
 </details>
