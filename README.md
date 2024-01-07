@@ -62,6 +62,27 @@ in the quiz questions, there's a lot of attention paid to how different the conc
 
 Jesus, so much information. It's dense.
 
+**Is... is this gonna be how hard the Geography Course is gonna be?**
+
+On section 3, lesson 3. How Candidates get elected.
+
+One of the 435 Districts that each representative is responsible for.
+
+Enumerated Powers: Powers the congress has from the constitution.
+
+Supremacy Clause: Article 9, National/Federal Laws take supremacy when State laws conflict with them.
+
+Running for Congress
+After Primary Election, General Election.
+Primary is when Dems and Republics vote for their favorite in their party.
+General is the tried and true election. (Via electoral college?)
+
+Civil Liberties is things you can do whenever. Freedom.
+Civil rights focuses more on when you're being challenged; especially in a court of law.
+
+Quizlet Matching Words method is Super useful.
+
+
 **Physical and Human Geography**
 Types of Maps
 Reference Maps
@@ -81,9 +102,20 @@ Latitude is -90 to 90N. North. So -90 is South Pole. Antarctica.
 
 Graticule is Coordinates. on a 3D globe. 
 
-Projections: Type of Inaccuracies from the many different maps available.
+Projections: Type of Inaccuracies from the many different maps available. From making a 3d globe in to a 2d map.
+Conformal Projections preserve shape and angle but distort area.
+Equal area, kind of the opposite of conformal.
+Equidistant Projections
+Compromise, Interupted or Artistic Projections
 
+4 types?
 
+Dot Density Maps - Helps with Data Analysis and potentially point of origin.
+Proportional Symbol Maps - Kind of like the Dot Density but the data is grouped into a symbol. like the larger a square is, the more objects in the group.
+Choropleth Map kind of like choroplasts in plants. The shade of color shows the amount of data in the map.
+Standard. More information kind of choropleth.
+
+On Lession 2.
 
 </p> 
 </details>
@@ -131,7 +163,7 @@ Senate hae to be 30 years old, citizen for 9 years
  Vice Prez serves as house of senate
  Senate only can approve presidential appointments and treaties
 
- President Can veto a bill. COngress can get passed it with 2/3rds majority vote.
+ President Can veto a bill. Congress can get passed it with 2/3rds majority vote.
 
  President's Cabinet. Executive Branch.
  Executive Orders do not have to be approved by congress.
