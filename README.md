@@ -33,6 +33,11 @@ This is the Template
 		7 Jan 2024
 	</summary>
 <p>
+Okay, Last I left off, Primaries Vs Caucus
+
+candidates who want to succeed in the primary contests of election should seek to align themselves with committed partisans who are often at the ideological extreme.
+
+
 </p> 
 </details>
 
