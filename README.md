@@ -85,8 +85,46 @@ Senate is President's "Advice and Consent"
 House of Reps involves House Rules Committee, Limits Debate
 Senate, Unlimited Debate and Cloture
 Cloture (3/5 of senate vote to end debate)
- 
- 
+
+ Federalism: The Idea that government authority is in both the national and state governments.
+
+ Senatorship was so that there wasn't too much democracy.
+
+ Interest Groups: I remember that there were a lot of questions about the current state of the government and how others are moving around in it.
+
+Federal Elections Campaign Act in the 1970's
+FEC is Federal Election Commision.
+McCain Feingold Act. limit the use of soft money. money for paryty building efforts and issue ads.
+Hard money is heavily regulated at this point in time whereas soft money had almost no regulations.
+
+Can't show union ads 30 days before a primary election and 60 days before general election
+
+There was a 2010 Major case that enabled corporations to spend as much cash as they want towards ads.
+
+Political Action Committee (PAC)
+Shit is Lobbying, Bruh.
+
+Super PACs have the funds, they don't have the same regulations. 
+
+PAC can only contribute up to 5000
+Bundling: A Strat where a single individual or PAC collects donations and presents them as a bundle. Super PAC has no limit, but cannot coordinate with the candidate
+
+Buckley v. Valeo, Money is Free Speech.
+
+in the Citizens V FEC case, Unions and Corporations have free speech rights.
+Union and Corporations = Super PAC
+
+Elections was 14B in 2020. Cause of that one rule
+
+It's reported that the Senate spend more time campaigning than doing their job.
+
+Hard Money is any money used for campaigning, soft money is PAC money.
+
+Incumbent: Someone in the current office running for election.
+Historically speaking, their success rate is 85-98 percent of continuing to hold office.
+
+
+
 </p> 
 </details>
 
