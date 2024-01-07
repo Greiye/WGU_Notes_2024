@@ -138,7 +138,22 @@ The Supreme Court decision for super PACs and Unions being able to contribute as
 Shay's Rebellion
 Example of too much democracy, almost went into Mob rule.
 
+Selecting Presidential Campaigners: The Caucus
+(Now that I'm learning all this, I realize just how little I knew when I voted for previous presidents.)
+King Caucus, a play on how legislators gathered informally to decide nominees, kind of like voting amongst themselves on who will be king. It emphasized just how little involvement the people had.
 
+Swing States (I remember this term in the last 2 presidential votes.)
+They're states that have historically led to the successful election of presidents.
+
+a state political party can hold primary election in two ways:
+Primary method
+Caucus Method, voters in each precinct gather as per usual.
+
+Had to look up a Youtube Video on it.
+
+I'm getting lost at the caucus.
+
+Ohhhhhh it's state by state. Some do primaries, some do caucus.
 
 
 </p> 
