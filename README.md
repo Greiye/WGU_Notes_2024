@@ -135,6 +135,9 @@ There was attempt to regulate financing campaigns in 1900 but the supreme court 
 
 The Supreme Court decision for super PACs and Unions being able to contribute as much money as they want towards political candidates bring into question corruption.
 
+Shay's Rebellion
+Example of too much democracy, almost went into Mob rule.
+
 
 
 
