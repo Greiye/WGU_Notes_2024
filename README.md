@@ -123,6 +123,19 @@ Hard Money is any money used for campaigning, soft money is PAC money.
 Incumbent: Someone in the current office running for election.
 Historically speaking, their success rate is 85-98 percent of continuing to hold office.
 
+Safe Seat: a seat that's usually easy to secure in the primaries rather than the general elections.
+
+House Representatives usually represent narrower sets of interests thatn senators. Senators represent the states.
+
+Senators have more power because they serve 6 terms.
+
+Key Task members of congress is to raise money for reelection
+
+There was attempt to regulate financing campaigns in 1900 but the supreme court reversed some of them.
+
+The Supreme Court decision for super PACs and Unions being able to contribute as much money as they want towards political candidates bring into question corruption.
+
+
 
 
 </p> 
