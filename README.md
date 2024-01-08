@@ -137,6 +137,20 @@ Standard. More information kind of choropleth.
 
 On Lession 2.
 
+Frequency Table
+Histogram
+Frequency Polygons
+
+Displaying Univariate Data
+One Variable
+
+Bivariate Data
+Two Variable
+
+
+Dot Plot
+
+
 </p> 
 </details>
 
