@@ -632,10 +632,11 @@ Someone gave out a sealed letter about their job confirmation. They never got th
 
 **Plessly vs. Fergusion - 1896 Segregation**
 This was the legalization of segregation. “One Drop Rule”. Louisiana was quite multicultural. Plessy wanted to improve the lives of others like him. Plessy’s committee went as far as to have a private detective arrest him so that they specifically challenged that specific segregation law. Challenged the case all the way to the Supreme Court. 
-Start of Jim Crow Era.
+Start of Jim Crow Era. The Jim Crow Era lasted up until the 1960's.
 70 years of segregation. 
 
 **Brown vs. Board of Education - Segregation**
+in 1954. 
 Reconstruction Amendments, 13, 14, and 15th Amendment.
 Happened in 1950’s, but the relevant laws were established in the 1930’s.
 Linda Brown
@@ -646,11 +647,13 @@ It was a long process of enabling black students to attend schools with the prop
 People needed to be told their rights before going into arrest custody. I can see how some people may not know their basic rights.
 The situation makes for easy police intimidation of the arrestee. The arrestee may admit to a crime they didn’t commit due to intimidation and/or not knowing their basic rights. They had the rights universally. I would say that some people may be new citizens and are unaware of their right to an attorney.
 
-Roe vs. Wade - Abortion Rights (I’ve heard of this)
+**Roe vs. Wade**
+Abortion Rights (I’ve heard of this)
 1973
 The Abortion ban could hurt/kill the mother.
 
-Obergefell - Hodges - Same Sex Marriage
+**Obergefell - Hodges**
+Same Sex Marriage
 Violation of 14th amendment, the equal protection clause. It enables same sex marriages.
 Some states enabled it, some didn’t. With this case, it legalized same sex marriage in every state.
 
@@ -827,14 +830,31 @@ Presidents use mandates after an election by using public support to implement c
 
 Justices not elected by appointed (by the president)
 
-Income is a common demographic group.
+Income is a common demographic group, which has been used in elections as a limiter.
+
+The inability to regulate traded amongst the 13 colonies after the Articles of Confederation was bad, as the price was not regulated. some states traded with other governments, which threw the price range everywhere.
+
+Power of the Purse: Lets congress raise and spend money
+
+In recent years, nominating presidents has changed to nominating state party primary elections.
+
+Dickerson was a case where the Miranda Rights were not read out. 
+
+Miranda was a rape case that got thrown out because Miranda was not aware of his rights.
+
+
 
 Passed the US Constitution Pre-Assessment. I’ll have to review it at a later date.
 Moving on to Physical and Human Geography.
+
+
+
+
 </details>
 
 <details>
 	<summary>Introduction to Physical and Human Geography – D199</summary>
+	
 	Mikey: The course explores Climate Changes, the state of the world climate, current effects of climate change, potential solutions, and world politics in regards to each nation’s effect on the world climate.
 
 “Chapter 1 in the study is the bulk of the OA so spend most of the time studying that chapter. Understand Climate Change, Different climate agreement like the Paris Climate Agreement and the Kyoto Protocol”
@@ -1062,7 +1082,7 @@ Took the Pre-Assessment Again. Passed.
 Time to study HTML/CSS/XML.
 </details>
 
-**HTML**
+
 <details>
 	<summary>**HTML**</summary>
 
@@ -1132,7 +1152,6 @@ HTML canvas. <canvas></canvas
 <button>Click Me</button>
 	
 Details is for a drop down menu.
-<details></details>
 
 Drop down is super useful. ```
 ```
