@@ -82,6 +82,26 @@ Civil rights focuses more on when you're being challenged; especially in a court
 
 Quizlet Matching Words method is Super useful.
 
+Miller vs. California case dealt with the definition of obscene, in the free of speech setting.
+
+Interstate Commerce Clause - Lets congress tax the states.
+It's a constitutional provision that lets congress regulate trade amongst the states.
+
+The 12th Amendment
+Burr and Jefferson kept recieving the same amount of votes. loads of ties.
+
+Social Contract:
+A voluntary agreement to secure rights and welfare by creating a government and abiding by its rules
+
+8th Amendment - No crazy , cruel and unusual capital punishment
+
+Cultivation Theory, people create their own perception of their reality
+
+Modern Conservatism should do little to nothing in terms of influencing the national economy
+
+Gerrymandering Districts can create safe seats due to unatural boundaries
+
+Marbury vs Madison
 
 **Physical and Human Geography**
 Types of Maps
