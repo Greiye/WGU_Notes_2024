@@ -30,6 +30,48 @@ This is the Template
 
 <details>
 	<summary>
+		9 Jan 2024
+	</summary>
+<p>
+	It's a week in. Feeling good. Feeling on Track.
+ I'm paying for these classes. Focus.
+ But don't forget to live life. Consult the 'Life in Weeks'.
+
+I got myself in college. I deserve to be here.
+
+
+Weaknesses:
+**American Politics.
+Amendment 23 or 24: Which is the Polls and which is the District?
+What does the coaching report say I need to work on?
+
+I don't know about:
+The Constitution Convention. It was the fix for the Articles of Confederation.
+
+WGU: Pre-Assessment needs approval before you can take it again.
+
+Civil Rights: Guarantees of equal opportunities and protections. Unwarranted Searches, Fair Trials., Right to Vote.
+Civil Liberties: Stop the Government from taking actions. They protect individuals.
+
+Proscriptions that limit government power.
+Prescriptions, actions that government is required to take.
+
+Civil Rights require government action
+Civil Liberties are government restricted (They can't do smack.)
+
+Ratification: Amending the Constitution, 
+
+Selective Incorporation: Which parts of Bill of Rights to incorporate through Supreme Court Decisions.
+
+
+
+</p> 
+
+ 
+</details>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+	<summary>
 		8 Jan 2024
 	</summary>
 <p>
@@ -49,6 +91,7 @@ I lost it in short term.
 
 </p> 
 </details>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
