@@ -30,6 +30,31 @@ This is the Template
 
 <details>
 	<summary>
+		8 Jan 2024
+	</summary>
+<p>
+	Okay. Politics Test Tomorrow and then the Geography Test.
+	Submit the Natural Lab Test in a few days.
+
+Lesson 4
+	The Electoral College
+ Amendment 12, 1 and 2. Voting for Prez and Vice. Vice being the Senate Speaker.
+
+ i'm starting to use google jamboard.
+
+I don't remember what was on the Objective Assessment for American Politics.
+I lost it in short term.
+
+
+
+</p> 
+</details>
+
+
+
+
+<details>
+	<summary>
 		7 Jan 2024
 	</summary>
 <p>
@@ -458,7 +483,7 @@ The national government under the articles of confederation were limited to main
 
 the articles of confederation enabled the government to create an army and a navy.
 
-The articles of confederation failed because they gave the states too much authority. They also severely  limited the powers of the government, making it weak and ineffective.
+The articles of confederation failed because they gave the states too much authority. They also severely limited the powers of the government, making it weak and ineffective.
 
 Too Much of one subject.
 
